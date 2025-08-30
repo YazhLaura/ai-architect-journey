@@ -1,6 +1,6 @@
 # 📚 AI架构师学习之旅
 
-> 记录我从零到一成为AI架构师的完整历程 | 2024.11 - 2025.11
+> 记录我从零到一成为AI架构师的完整历程 | 2025.9 - 2026.9
 
 <div align="center">
 
@@ -89,7 +89,7 @@
 ### 🔄 进行中项目
 
 #### [AI文字冒险游戏](https://github.com/你的用户名/ai-text-adventure-game)
-- **进度**: 20% ![](https://geps.dev/progress/20)
+- **进度**: 10% ![](https://geps.dev/progress/10)
 - **技术栈**: Python, Docker
 - **亮点**: 动态剧情生成、智能NPC对话
 - **状态**: 基础架构搭建中
@@ -102,7 +102,7 @@
 ## 📚 学习资源
 
 ### 正在学习
-- 📖 [DeepLearning.AI - ChatGPT Prompt Engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - 进度: 2/9章
+- 📖 [DeepLearning.AI - ChatGPT Prompt Engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - 进度: 1/9章
 - 📖 [Anthropic Claude 文档](https://docs.anthropic.com) - 持续学习中
 
 ### 计划学习
@@ -121,8 +121,8 @@
 
 <!-- 
 ### 📌 置顶文章
-- [从零开始构建AI游戏]() - 2024.11
-- [2024年的上下文工程 vs RAG]() - 2024.11
+- [从零开始构建AI游戏]() - 2025.8
+- [2025年的上下文工程 vs RAG]() - 2025.9
 -->
 
 ## 🏆 成就记录
@@ -139,7 +139,7 @@
 ## 📊 月度回顾
 
 <details>
-<summary><b>2024年11月</b></summary>
+<summary><b>2025年8月</b></summary>
 
 - **学习时间**: 0/80小时
 - **完成任务**: 0个
@@ -179,7 +179,7 @@
 - 🌟 Star这个仓库，一起见证成长
 - 💬 在Issues中交流学习心得
 - 🤝 提出建议或合作机会
-- 📧 联系我: your.email@example.com
+- 📧 联系我: hyz1206ato@gmail.com
 
 ## 📅 更新频率
 
